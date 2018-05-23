@@ -223,41 +223,58 @@ GAMEPLAY
 修复 - It is possible to melee shield operators through their shield when approaching from a particular angle.
 修复 - Operator models can appear in 2D and not receive any damage.
 修复 - Players can clip through walls and barricades in multiple spots.
+
 OPERATORS
+
 BANDIT
 修复 - Batteries are not destroyed by any kind of explosive when installed on a reinforced trapdoor.
+
 CAVEIRA
 修复 - Caveira is able to reload while sprinting in Silent Step.
+
 VALKYRIE
 修复 - Black Eyes can be placed in unintended spots to see through the map.
+
 DOC
 修复 - Doc's Emergency Rescue Headgear is corrupted and equipping it distorts the entire character model.
+
 ELA
 修复 - Concussion Mine effect can go through barricades, Castle barricades and bare reinforcements.
+
 MIRA
 修复 - Black Mirror does not destroy pictures properly while being deployed on certain spots.
 修复 - Mira's One Way Mirror can disappear when close to a wall.
+
 FINKA
 修复 - Blue border does not appear in the kill cam and support views if Finka used her boost right after the kill.
+
 TWITCH
 修复 - If a player leaves while Twitch's drones are out, the drones will disappear.
 修复 - Twitch drone doesn't show ammo count nor cooldown for the taser.
+
 FROST
 修复 - Welcome Mats can be hidden after performing a series of actions.
+
 IQ
 修复 - If IQ's gadget is activated, she can detect electronics while doing other actions like cooking a grenade.
 修复 - Electronics are not highlighted on the edge of the detector.
+
 JAGER
 修复 - Jager's ADS can be deployed and hidden through certain structures.
+
 TACHANKA
 修复 - Tachanka's LMG shield is inconsistent and players can be shot through it.
+
 关卡设计
+
 边境
 修复 - Defenders can throw gadgets outside through the small window at 1F Detention during the preparation phase.
 修复 - Wall sections float after an operator destroys them.
 修复 - Frost traps clip through the cable protectors located in 1F Server Room making them partially invisible.
+
 游艇
 修复 - Players do not receive any damage after detonating a nitro cell near the flower pot at "2F Bedroom Hallway" area.
+
 俱乐部
 修复 - Defenders are detected if they stand in the doorframe between Basement Hallway and Church.
 修复 - Players take fatal fall damage when vaulting off the AC unit from EXT Western Roof.
@@ -270,19 +287,28 @@ TACHANKA
 修复 - There is a gap under the Ext Eastern Sub-Roof wall that gives Attackers a line of sight to the floor below.
 修复 - Nitro cell deals no damage when exploding on the stairs of the 1F Bar.
 修复 - Breach Charges will destroy only the first layer of the wall in the Basement Hallway area.
+
+海岸线
 修复 - Objective not discovered when aiming towards it from the Ruins.
+
 领事馆
 修复 - Placing cluster charges in specific spots on Consulate will kill Fuze.
+
 木屋
 修复 - Certain areas of House are too dark when viewed from the outside.
+
 咖啡馆
 修复 - Drones can clip into walls at 3F Cigar Lounge and scan through the whole map
+
 主题公园
 修复 - Yokai loses signal on 1F Haunted Stairs.
+
 韩国塔
-修复 - Gadget placement on floor is too restricted in 1F Tea Room
+修复 - Gadget placement on floor is too restricted in 1F Tea Room.
+
 俄勒冈
 修复 - 玩家无法被伤害if they plant a C4 on the unfinished Northeast wall of the "Dining Hall Corridor".
+
 用户体验
 修复 - 得分板中出现空的用户名。
 修复 - 如果玩家接受一个已经开始的自定义游戏邀请时会收到 3-0x000A0013 错误.
