@@ -32,7 +32,7 @@
  9. HEREFORD = 赫里福基地
  10. HOUSE = 芝加哥豪宅
  11. KAFE = 陀思妥耶夫斯基咖啡馆
- 12. KANAL = 码头
+ 12. KANAL = 运河
  13. OREGON = 俄勒冈乡间屋宅
  14. PLANE = 总统专机
  15. SKYSCRAPER = 摩天大楼
