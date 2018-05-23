@@ -284,12 +284,12 @@ TOWER
 Fixed - Gadget placement on floor is too restricted in 1F Tea Room
 OREGON
 Fixed - Players will not receive any damage if they plant a C4 on the unfinished Northeast wall of the "Dining Hall Corridor".
-USER EXPERIENCE
-Fixed - Empty usernames appear in the scoreboard.
-Fixed - 3-0x000A0013 error is received if a player accepts an invite to an already started custom game.
-Fixed - Drones do not register slow mouse movements.
-Fixed - In some cases, players will receive a "Game Full" error when matchmaking.
-Fixed - A yellow dot is displayed under the operators tab.
-Fixed - Voice chat icon remains active after a team member stops speaking.
-Fixed - The game will randomly crash with a Ryzen CPU setup.
-Fixed - Players are unable to rejoin their Ranked game after a maintenance.
+用户体验
+修复 - 得分板中出现空的用户名。
+修复 - 如果玩家接受一个已经开始的自定义游戏邀请时会收到 3-0x000A0013 错误.
+修复 - 无人机不会感应到缓慢的鼠标移动.
+修复 - 在一些情况下, 当玩家匹配的时候会收到“游戏人数已满”的错误.
+修复 - 一个黄点会出现在干员标签下.
+修复 - 语音聊天标志会在队友停止语音后仍然存在.
+修复 - 用锐龙处理器启动时，游戏会随机崩溃.
+修复 - 维护后，玩家无法重新加入排位游戏.
