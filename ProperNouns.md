@@ -12,4 +12,10 @@
  5. Six Invitational=彩虹六号国际邀请赛
  5. Tie Break=加时赛
  5. Tournament=锦标赛
+ 
+ 二、Content游戏内容类
+ --------------------
+ 
+ 1.Hatch=顶板
+ 2.
 
