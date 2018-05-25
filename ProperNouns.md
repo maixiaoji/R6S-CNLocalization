@@ -29,7 +29,7 @@
  6. COASTLINE = 海岸线
  7. CONSULATE = 领事馆
  8. FAVELA = 贫民窟
- 9. HEREFORD = 赫里福基地
+ 9. HEREFORD BASE= 赫里福基地
  10. HOUSE = 芝加哥豪宅
  11. KAFE = 陀思妥耶夫斯基咖啡馆
  12. KANAL = 运河
