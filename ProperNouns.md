@@ -1,7 +1,7 @@
 **Rainbow Six Siege Proper Nouns**
 ==================================
  
- 一、Pro League赛事类
+ 一、Match赛事类
  -------------------
  
  1. Challenger League = 挑战者联赛
@@ -41,4 +41,11 @@
  18. VILLA = 别墅
  19. YACHT = 游艇
 
+ 四、Gadget装备类
+ ----------------
+ 
+ 
+ 
+ 五、Map地图类
+ -------------
  
