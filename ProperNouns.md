@@ -22,8 +22,8 @@
  ------------------
  
  1. BORDER = 边境
-    1. 1F Server Room
-    2. 1F Detention
+    1. 1F Detention
+    2. 1F Server Room
  2. BARTLETT UNIVERSITY = 巴特雷特大学
  3. BANK = 银行
  4. CHALET = 木屋
@@ -51,11 +51,19 @@
  四、Gadget装备类
  ----------------
  
- 1. Impact Grenade = 
- 2. Deployable Shield = 
- 3. Barbed Wire = 
- 4. Yokai = 
- 5. Drone = 
- 6. ADS = 
- 7. Black Mirror = 
- 8. Black Eyes = 
+ 1. ADS = 主动防御系统
+ 2. Barbed Wire = 倒刺铁丝网
+ 3. Black Eyes = 黑眼
+ 4. Black Mirror = 黑镜
+ 5. Breach Charge = 爆破炸药
+ 6. Bulletproof Camera = 防弹摄像头
+ 7. Claymore = 人员杀伤地雷
+ 8. Deployable Shield =  机动护盾
+ 9. Drone = 无人机
+ 10. Frag Grenade = 破片手榴弹
+ 11. Impact Grenade = 冲击手榴弹
+ 12. Nitro Cell = 遥控炸药
+ 13. Smoke Grenade = 烟雾手榴弹
+ 14. Stun Grenade = 闪光手榴弹
+ 15. Yokai = 妖怪
+
