@@ -12,7 +12,14 @@
  6. Six Invitational = 彩虹六号国际邀请赛
  7. Tie Break = 加时赛
  8. Tournament = 锦标赛
- 
+ 9. Opening Kills/Opening Deaths (OK/OD) =首杀/首死
+ 10. % of Rounds Survived (SRV) =生存率
+ 11. % of Rounds with Kill/Plant/Survive/Traded (KOST)=有击杀/安包/最终存活/一换一的回合百分比
+ 12. Kill Per Round (KPR)=每回合击杀
+ 13. Attack Often Pick(ATK OP)=进攻方常用干员
+ 14. Defend Often Pick(DEF OP)=防守方常用干员
+ 15. Plant = 安包次数
+ 16. Defuse = 拆包次数
  二、Content游戏内容类
  --------------------
  
