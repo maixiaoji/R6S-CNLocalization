@@ -34,6 +34,7 @@
     2. 1F Server Room
  2. BARTLETT UNIVERSITY = 巴特雷特大学
  3. BANK = 银行
+    1. 1F Archives
  4. CHALET = 木屋
     1. 2F Bedroom Hallway
  5. CLUBHOUSE = 俱乐部
