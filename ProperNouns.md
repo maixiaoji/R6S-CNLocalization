@@ -4,14 +4,22 @@
  一、Match赛事类
  -------------------
  
- 1. Challenger League = 挑战者联赛
- 2. Format = 赛制
- 3. LAN Games = 线下赛
- 4. Major = 特锦赛
- 5. Pro League = 职业联赛
- 6. Six Invitational = 彩虹六号国际邀请赛
- 7. Tie Break = 加时赛
- 8. Tournament = 锦标赛
+ 1. Attack Often Pick(ATK OP) = 进攻方常用干员
+ 2. Challenger League = 挑战者联赛
+ 3. Defend Often Pick(DEF OP) = 防守方常用干员
+ 4. Defuse = 拆包次数
+ 5. Format = 赛制
+ 6. Kill Per Round (KPR) = 每回合击杀
+ 7. LAN Games = 线下赛
+ 8. Major = 特锦赛
+ 9. Opening Kills/Opening Deaths (OK/OD) = 首杀/首死
+ 10. Plant = 安包次数
+ 11. Pro League = 职业联赛
+ 12. Six Invitational = 彩虹六号国际邀请赛
+ 13. Tie Break = 加时赛
+ 14. Tournament = 锦标赛
+ 15. % of Rounds Survived (SRV) = 存活率
+ 16. % of Rounds with Kill/Plant/Survive/Traded (KOST) = 有击杀/安包/最终存活/一换一的回合百分比
  
  二、Content游戏内容类
  --------------------
